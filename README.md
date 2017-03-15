@@ -5,9 +5,9 @@ Website ini adalah website _pertama_ saya yang mencakup hal-hal tentang saya. We
 Saya menggunakan beberapa *tags* dan *syntaxes* untuk website ini. Contohnya seperti:
 
 ### HTML
-* ``` <html> ´´´
-* ``` <head> ´´´
-* ``` <body> ´´´
-* ``` <heading> ´´´
-* ``` <div> ´´´
+* ```<html>```
+* ```<head>```
+* ```<title>```
+* ```<body>```
+* ```<div>```
 * dan lain-lain
