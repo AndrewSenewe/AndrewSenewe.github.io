@@ -16,3 +16,6 @@ Saya menggunakan beberapa *tags* dan *syntaxes* untuk website ini. Contohnya sep
 
 # About Me
 Saya adalah seseorang yang sedang belajar dan mau berkembang di bidang programming.
+
+# Future Plans
+Website ini akan terus berkembang sejalan dengan perkembangan saya dalam pengetahuan dan pengalaman di bidang web development.
