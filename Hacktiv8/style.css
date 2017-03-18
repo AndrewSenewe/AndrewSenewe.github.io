@@ -1,0 +1,57 @@
+html {
+  background: url("http://www.planwallpaper.com/static/images/b807c2282ab0a491bd5c5c1051c6d312_rP0kQjJ.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+}
+
+body {
+  padding: 10px 160px 10px 160px;
+}
+
+
+h1 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+p {
+  text-align: center;
+  margin-top: 40px;
+}
+
+a {
+  background-color: #14213D;
+  color: #FFF;
+  box-sizing: border-box;
+  font-size: 15px;
+  padding: 5px;
+  background-image: -webkit-linear-gradient(purple, turquoise);
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+
+footer {
+  background-color: #000;
+  overflow-y: auto;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 1000;
+  text-align: center;
+  color: #fff;
+}
+
+.banner {
+  background-color: rgba(188, 198, 204, 0.9);
+  padding-bottom: 30%;
+  border-radius: 5px;
+}

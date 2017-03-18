@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+}
+
+body{
+  background-color: gray;
+  background: url("img/sample-pattern.png");
+}
+
+header {
+  position: fixed;
+  background-color: #fff;
+  width: 100%;
+  height: 25px
+
+ }
+
+img {
+  width: 50%;
+  float: left;
+  display: block;
+  height: 100%;
+  width: 200px;
+}
+
+nav {
+  font-family: 'roboto' sans-serif;
+  font-size: 14px
+  float: right;
+  padding-left: 1000px;
+  width: 200rem;
+}
+
+li {
+	display: inline-block;
+	margin: 0 0.3rem;
+}
+
+section {
+  padding: 60px 300px;
+}
+
+article {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  padding: 20px 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  padding: 0 0 20px;
+}
+
+footer {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: #000;
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:30px;
+  width:100%;
+}
+
+footer h5 {
+  text-align: center;
+  color: #fff;
+  padding: 10px ;
+}
