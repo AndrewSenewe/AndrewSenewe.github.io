@@ -1,0 +1,14 @@
+Tugas 1
+Simpan "Angka Pertama"
+Simpan "Angka Kedua"
+Hitung "Angka Pertama" ditambah "Angka Kedua"
+Tuliskan hasil dari Hitungan
+
+Tugas 2
+Simpan "Kata"
+If "Kata" itu bertuliskan "Saya Belajar JavaScript!"
+Tuliskan "Pasti Bisa!"
+
+Tugas 3
+Simpan "Sebuah Angka"
+Tampilkan sebuah deret angka yang dimulai dari angka 1 dan berhenti jika deret menunjukan angka yang tersimpan
