@@ -1,0 +1,43 @@
+buat fungsi (starting) untuk memperkenalkan permainan
+	simpan variabel untuk nama game
+	simpan variabel untuk pembuat game
+	alert kedua variabel diatas
+	arahkan ke fungsi selanjutnya
+
+buat fungsi (introduction) untuk pemain menuliskan namanya
+	sediakan tempat pengisian/prompt nama pemain
+		jika tempat pengisian data nama tidak di isi
+			maka arahkan ke fungsi (empty)
+		selain itu arahkan ke fungsi instruksi
+
+buat fungsi (instruksi) untuk pemberitahuan instruksi permainan
+	alert instruksinya
+	arahkan ke fungsi operasi
+
+buat fungsi (empty) untuk pemain yang tidak mengisi namanya
+	buat pilihan untuk mengulang ke fungsi introduction jika pemain klik 'ok'
+	jika tidak tampilkan/alert 'goodbye'
+
+buat fungsi (restart) untuk mengulang permainan
+	buat pilihan untuk mengulang ke fungsi operation jika pemain klik 'ok'
+	jika tidak tampilkan/alert 'goodbye'
+
+buat fungsi (operasi) untuk pengoperasian kuis
+	simpan variabel objek array untuk menyimpan tiga buah operator bilangan dan metode penggunaan operator tsb
+	simpan variabel untuk hasil acak untuk operator
+	simpan variabel angka acak untuk bilangan pertama
+	simpan variabel angka acak untuk bilangan kedua
+	simpan variabel hasil operasi acak dari ketiga variabel di atas
+	buat variabel prompt untuk tempat pemain mengisi jawaban mereka
+	
+		jika angka hasil pemain sama dengan hasil hitungan variabel
+			alert 'benar dan lanjut'
+			ke fungsi operasi
+		jika tidak diisi
+			alert 'sudah lelah'
+			ke fungsi restart
+		jika salah
+			alert 'maaf salah'
+			ke fungsi restart 
+
+panggil fungsi starting	

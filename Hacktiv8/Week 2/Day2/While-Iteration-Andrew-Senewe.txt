@@ -1,0 +1,13 @@
+https://jsbin.com/yomudax/edit?html,js,console
+
+ var flag= 0;
+while(flag < 20) {
+  flag += 2;
+  console.log(flag + " - I love coding");
+    }
+
+ var flag= 22;
+while(flag > 2) {
+  flag -= 2;
+  console.log(flag + " - I will become fullstack developer");
+    }
