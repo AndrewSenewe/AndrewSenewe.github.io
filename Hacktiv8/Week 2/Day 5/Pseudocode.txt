@@ -2,13 +2,13 @@ buat fungsi (starting) untuk memperkenalkan permainan
 	simpan variabel untuk nama game
 	simpan variabel untuk pembuat game
 	alert kedua variabel diatas
-	arahkan ke fungsi selanjutnya
+	arahkan ke fungsi (introduction)
 
 buat fungsi (introduction) untuk pemain menuliskan namanya
 	sediakan tempat pengisian/prompt nama pemain
 		jika tempat pengisian data nama tidak di isi
 			maka arahkan ke fungsi (empty)
-		selain itu arahkan ke fungsi instruksi
+		jika diisi, arahkan ke fungsi (instruksi)
 
 buat fungsi (instruksi) untuk pemberitahuan instruksi permainan
 	alert instruksinya
@@ -40,4 +40,4 @@ buat fungsi (operasi) untuk pengoperasian kuis
 			alert 'maaf salah'
 			ke fungsi restart 
 
-panggil fungsi starting	
+panggil fungsi (starting)	
